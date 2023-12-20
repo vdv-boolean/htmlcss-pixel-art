@@ -1,0 +1,36 @@
+
+div {
+    height: 2rem;
+}
+
+.red {
+    background-color: #C43E03;
+}
+
+.green {
+    background-color: #7C986C;
+}
+
+.senape {
+ background-color: #84714D;
+}
+
+.orange {
+    background-color: #E08B3E;
+}
+
+.yellow {
+    background-color: #E3A360;
+}
+
+.black {
+    background-color: black;
+}
+
+.brown {
+    background-color: brown;
+}
+
+.sun {
+    background-color: white;
+}
